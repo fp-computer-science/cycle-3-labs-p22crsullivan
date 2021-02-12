@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-var a = 2
-=======
 // Author: CRS 2/11/2021
-var myLevel = 6;
+var myLevel = 5;
 if (myLevel % 2 == 0) {console.log(myLevel + " is an even number.");}
->>>>>>> master
+else {console.log(myLevel + " is an odd number.");}
